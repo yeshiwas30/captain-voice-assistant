@@ -1,0 +1,80 @@
+MARITIME COMMUNICATION PROCEDURES
+
+Document ID: COM-001
+Title: Vessel Communication Procedures
+
+1. GENERAL COMMUNICATION
+
+Clear and timely communication is essential for safe vessel operations.
+
+Operational instructions should be communicated using clear and
+unambiguous language.
+
+Important instructions should be acknowledged by the receiving
+person.
+
+2. BRIDGE TO ENGINE ROOM
+
+The bridge and engine room should maintain effective communication
+during maneuvering, departure, arrival and other operations requiring
+coordination.
+
+Changes to propulsion requirements should be communicated clearly.
+
+The engine room should report significant machinery problems to the
+bridge.
+
+3. EMERGENCY COMMUNICATION
+
+During an emergency, communication should prioritize information
+that affects personnel safety, vessel safety and environmental
+protection.
+
+The following information may be important:
+- Nature of the emergency
+- Location
+- Immediate danger
+- Personnel involved
+- Actions already taken
+- Assistance required
+
+4. COMMUNICATION WITH CREW
+
+The responsible officer should ensure that crew members understand
+important safety instructions.
+
+Instructions involving hazardous operations should be communicated
+before the operation begins.
+
+5. RADIO COMMUNICATION
+
+Radio communications should follow applicable maritime communication
+procedures and the vessel's approved communication plan.
+
+Emergency and safety communications should be kept clear and
+concise.
+
+6. COMMUNICATION DURING MANEUVERING
+
+During maneuvering, commands should be clear and should be
+acknowledged when required.
+
+The bridge team should ensure that critical information is understood
+by the person responsible for carrying out the command.
+
+7. LOSS OF COMMUNICATION
+
+If communication with a critical station is lost, the responsible officer
+should take appropriate action according to the vessel's procedures.
+
+Alternative communication methods should be used when available.
+
+8. DOCUMENTATION
+
+Important operational communications and significant events should
+be recorded when required by vessel procedures.
+
+9. COMMUNICATION PRINCIPLE
+
+When safety-critical information is communicated, the sender should
+confirm that the receiver has understood the instruction.

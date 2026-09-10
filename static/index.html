@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Captain Voice Assistant</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            max-width: 800px;
+            margin: 50px auto;
+        }
+
+        textarea {
+            width: 100%;
+            height: 120px;
+            padding: 10px;
+        }
+
+        button {
+            padding: 12px 25px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        #result {
+            margin-top: 30px;
+            white-space: pre-wrap;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>⚓ Captain Voice Assistant</h1>
+
+    <p>
+        Ask a question about vessel operations.
+    </p>
+
+    <textarea
+        id="question"
+        placeholder="Enter Captain's command..."
+    ></textarea>
+
+    <br>
+
+    <select id="language">
+
+        <option value="Amharic">
+            Amharic
+        </option>
+
+        <option value="English">
+            English
+        </option>
+
+    </select>
+
+    <br>
+
+    <button onclick="askCaptain()">
+        Ask Captain Assistant
+    </button>
+
+    <div id="result"></div>
+
+    <br>
+
+    <audio
+        id="audio"
+        controls>
+    </audio>
+
+    <script src="/static/app.js"></script>
+
+</body>
+
+</html>

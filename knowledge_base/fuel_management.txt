@@ -1,0 +1,93 @@
+FUEL MANAGEMENT PROCEDURES
+
+Document ID: FUE-001
+Title: Fuel Monitoring and Management
+
+1. FUEL MONITORING
+
+Fuel quantities should be monitored regularly during vessel
+operations.
+
+The engineering team should maintain accurate fuel records.
+
+Important fuel information may include:
+- Fuel type
+- Tank level
+- Consumption
+- Remaining quantity
+- Transfer operations
+- Bunkering information
+
+2. FUEL CONSUMPTION
+
+Fuel consumption should be monitored against expected operating
+conditions.
+
+Unexpected increases in fuel consumption should be investigated.
+
+Possible causes may include changes in engine load, weather,
+operating conditions or equipment problems.
+
+3. FUEL TRANSFER
+
+Fuel transfer operations should follow the vessel's approved fuel
+transfer procedures.
+
+Before transfer begins, relevant personnel should confirm the
+transfer plan and communication arrangements.
+
+Fuel transfer equipment should be checked before operation.
+
+4. BUNKERING
+
+Bunkering should be conducted according to the vessel's approved
+bunkering procedure.
+
+Before bunkering, responsible personnel should confirm:
+- Correct fuel type
+- Required quantity
+- Tank capacity
+- Communication arrangements
+- Spill prevention measures
+- Emergency shutdown arrangements
+
+5. SPILL PREVENTION
+
+Appropriate spill prevention equipment should be prepared before
+fuel transfer.
+
+Any fuel spill should be reported and handled according to the
+vessel's pollution prevention and emergency procedures.
+
+6. TANK LEVELS
+
+Fuel tanks should not be filled beyond their approved safe capacity.
+
+Tank levels should be monitored throughout fuel transfer operations.
+
+7. FUEL QUALITY
+
+Fuel quality information should be documented when required.
+
+Fuel samples and relevant bunker documentation should be handled
+according to vessel procedures.
+
+8. LOW FUEL CONDITION
+
+If available fuel becomes insufficient for planned operations, the
+responsible officers should be informed.
+
+The captain and engineering team should evaluate the remaining
+fuel, expected consumption and voyage requirements.
+
+9. FUEL RECORDS
+
+Fuel transfers and consumption should be recorded accurately.
+
+Records should be maintained according to applicable vessel
+procedures and regulations.
+
+10. FUEL MANAGEMENT PRINCIPLE
+
+Fuel management should prioritize safe operation, accurate
+monitoring, pollution prevention and reliable voyage planning.

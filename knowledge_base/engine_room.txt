@@ -1,0 +1,15 @@
+Engine Room Temperature Procedure
+
+The normal engine room operating temperature should remain between
+18°C and 35°C.
+
+If the engine room temperature exceeds 35°C, the duty engineer
+must investigate the cause.
+
+If the temperature reaches 40°C, reduce engine load when operationally
+safe and activate additional ventilation.
+
+If the temperature reaches 45°C or higher, treat the situation as
+an emergency and notify the chief engineer immediately.
+
+All temperature incidents must be recorded in the engine room log.

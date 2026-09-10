@@ -1,0 +1,102 @@
+VESSEL MAINTENANCE PROCEDURES
+
+Document ID: MNT-001
+Title: Machinery and Equipment Maintenance
+
+1. MAINTENANCE PLANNING
+
+Vessel equipment should be maintained according to the approved
+maintenance schedule.
+
+Maintenance activities should be planned based on equipment
+condition, operating requirements and manufacturer instructions.
+
+2. PRE-MAINTENANCE SAFETY
+
+Before maintenance begins, personnel should identify hazards
+associated with the task.
+
+Where required, machinery should be stopped, isolated and secured.
+
+Energy sources should be controlled according to the vessel's
+lockout and isolation procedures.
+
+3. AUTHORIZED PERSONNEL
+
+Only appropriately trained and authorized personnel should perform
+specialized maintenance tasks.
+
+Personnel should use appropriate PPE.
+
+4. MACHINERY INSPECTION
+
+Machinery should be inspected for signs of:
+- Excessive vibration
+- Unusual noise
+- Leakage
+- Overheating
+- Abnormal pressure
+- Abnormal temperature
+- Damage
+
+Abnormal conditions should be reported to the responsible engineer
+or officer.
+
+5. ENGINE ROOM MAINTENANCE
+
+Engine-room maintenance should be coordinated with the responsible
+engineering personnel.
+
+Maintenance that affects propulsion, steering, electrical power or
+other critical systems should be properly planned and communicated
+to the bridge.
+
+6. ELECTRICAL MAINTENANCE
+
+Electrical maintenance should be performed only by appropriately
+qualified personnel.
+
+Electrical systems should be isolated when required.
+
+7. TOOLS AND EQUIPMENT
+
+Tools should be inspected before use.
+
+Damaged tools should not be used.
+
+Tools and spare parts should be stored safely after maintenance.
+
+8. POST-MAINTENANCE CHECK
+
+After maintenance, the responsible personnel should verify that the
+equipment has been correctly reassembled.
+
+Protective devices should be restored.
+
+The equipment should be tested according to the approved procedure.
+
+9. MAINTENANCE RECORDS
+
+Completed maintenance activities should be documented.
+
+Records may include:
+- Equipment identification
+- Date
+- Work performed
+- Parts replaced
+- Personnel involved
+- Test results
+- Outstanding defects
+
+10. DEFECT REPORTING
+
+Equipment defects that could affect vessel safety should be reported
+promptly.
+
+Critical equipment should not be returned to service until it is safe
+and authorized according to vessel procedures.
+
+11. MAINTENANCE PRINCIPLE
+
+Maintenance should preserve equipment reliability while protecting
+personnel and vessel safety.
