@@ -1,96 +1,89 @@
 # Captain Voice Assistant with RAG-Based Translation
 
-## Overview
+An AI-powered maritime assistant that uses **RAG (Retrieval-Augmented Generation)** to answer Captain's questions using a maritime knowledge base, translate responses into languages such as **Amharic**, and generate voice responses.
 
-Captain Voice Assistant is an AI-powered maritime assistant that uses **RAG (Retrieval-Augmented Generation)** to retrieve relevant information from a maritime knowledge base and generate grounded responses.
+## Features
 
-The response can be translated into a selected language, such as **Amharic**, and converted into speech.
+* 📚 RAG-based maritime knowledge retrieval using **FAISS**
+* 🤖 Grounded responses using **Google Gemini**
+* 🌍 Multilingual translation
+* 🗣️ Voice generation using **ElevenLabs**
+* 🔊 Audio response playback
+* 📝 Pipeline logging and traceability
+* ⚡ FastAPI backend with web interface
 
 ## Technologies
 
-* Python & FastAPI
-* FAISS Vector Database
+* Python
+* FastAPI
+* FAISS
 * Sentence Transformers
-* Ollama (Llama 3.2 3B)
-* Translation
-* Text-to-Speech
-* HTML, CSS & JavaScript
+* Google Gemini
+* ElevenLabs
+* HTML / JavaScript
 
-## Architecture
+## Project Flow
 
-text
+```text
 Captain Question
       ↓
-   FastAPI
+FAISS RAG Retrieval
       ↓
-   FAISS RAG
+Gemini Answer
       ↓
- Ollama LLM
+Translation
       ↓
- Translation
+ElevenLabs TTS
       ↓
- Text-to-Speech
-      ↓
- Audio Response
-
+Voice Response
+```
 
 ## Setup
 
-powershell
+```powershell
+git clone https://github.com/yeshiwas30/captain-voice-assistant.git
+cd captain-voice-assistant
+
 python -m venv venv
 .\venv\Scripts\activate
-python -m pip install -r requirements.txt
 
+pip install -r requirements.txt
+```
 
-Install and start Ollama:
+Create a `.env` file:
 
-powershell
-ollama pull llama3.2:3b
-ollama serve
+```text
+GEMINI_API_KEY=your_key
+ELEVENLABS_API_KEY=your_key
+ELEVENLABS_VOICE_ID=your_voice_id
+```
 
+Build the RAG index:
 
-Build the knowledge-base index:
-
-powershell
+```powershell
 python -m scripts.build_index
-
+```
 
 Run the application:
 
-powershell
+```powershell
 python -m uvicorn app.main:app --reload
-
+```
 
 Open:
-text
-http://127.0.0.1:8000/static/index.html
 
+```text
+http://127.0.0.1:8000
+```
 
-## Knowledge Base
+## Example
 
-The system uses maritime documents covering areas such as:
+**Question:**
 
-* Safety
-* Navigation
-* Fire procedures
-* Weather
-* Engine room
-* Maintenance
-* Crew operations
+> What should I do if there is a fire onboard?
 
-## Evaluation
+The system retrieves relevant maritime information, generates a grounded answer, translates it into Amharic, and produces a voice response.
 
-Run:
+## Note
 
-powershell
-python -m scripts.evaluate
-
-
-The system logs the complete pipeline:
-
-text
-Input → Retrieved Context → LLM Response → Translation → Audio
-
- Limitations
-
-This is a prototype for demonstration purposes. It should not replace official maritime procedures, vessel SMS, manufacturer manuals, or applicable regulations.
+This is an educational prototype. AI responses should be verified against vessel-specific procedures, official maritime regulations, and qualified personnel before operational use.
